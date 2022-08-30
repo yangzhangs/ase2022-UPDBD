@@ -12,8 +12,6 @@ facilitate research and assist practitioners in improving the Docker build proce
 
 
 ## Citation
-The preprint is available [here]().
-
 BibTeX
 ```
 @inproceedings{WuASE22,
