@@ -27,7 +27,7 @@ organization={ACM}
 ## Data
 
 - Data for prediction models
-  -   We start with the dataset proposed by Lin et al. [link](https://github.com/linncy/icsme2020-docker-study)
+  -   We start with the dataset proposed by Lin et al.'s [icsme20-Docker-dataset](https://github.com/linncy/icsme2020-docker-study)
   -   The data for prediction models can be found in `models_data_cv.csv`
   -   This data includes 171,439 builds with 27 features
 
