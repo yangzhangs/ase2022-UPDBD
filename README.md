@@ -28,23 +28,23 @@ organization={ACM}
 
 - Data for prediction models
   -   We start with the dataset proposed by Lin et al. [link](https://github.com/linncy/icsme2020-docker-study)
-  -   The data for prediction models can be found in *models_data_cv.csv*
+  -   The data for prediction models can be found in `models_data_cv.csv`
   -   This data includes 171,439 builds with 27 features
 
 - Other data: builds, commits, and dockerfiles from 5,833 projects.
-  - 171,439 builds in *builds.rar* 
-  - 551,838 commits in *commits.part1.rar* and *commits.part2.rar*
-  - 65,026 dockerfiles in *dockerfiles.rar*
+  - 171,439 builds in `builds.rar` 
+  - 551,838 commits in `commits.part1.rar` and `commits.part2.rar`
+  - 65,026 dockerfiles in `dockerfiles.rar`
 
 
 ## Scripts
 We implement the prediction models using R with the [caret](http://topepo.github.io/caret/index.html) package.
 
-- Implementation details of prediction models: see *prediction_models.md*
+- Implementation details of prediction models: see `prediction_models.md`
 
-- Scripts for prediction modeling: see *scripts_for_modelling.R*
+- Scripts for prediction modeling: see `scripts_for_modelling.R`
 
-- Optimal parameters settings of prediction models: see *optimal_parameters.md* 
+- Optimal parameters settings of prediction models: see `optimal_parameters.md` 
 
 - Methods used in our feature analysis
   - VARCLUS clustering analysis (*varclus* in *Hmisc* package)
@@ -59,4 +59,4 @@ We implement the prediction models using R with the [caret](http://topepo.github
  
 ## Survey questions
 
-- Our survey questions can be found in *survey_questions.md*
+- Our survey questions can be found in `survey_questions.md`
