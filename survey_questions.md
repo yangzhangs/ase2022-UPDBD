@@ -5,7 +5,7 @@ This survey is investigating what Docker practitioners think about the Docker bu
 
 We invite technical experts engaged in Docker builds practice to complete this survey. Your participation is voluntary and confidential, and is expected to take no more than 10 minutes. If you consent to participate in this survey, continue to the next page by clicking on the button below. Once the survey is over, we will only publish aggregated results. The data you provide will be anonymized and cannot be traced back to your identity. Participation will pose no foreseeable risks.  
 
-If you have additional questions or comments, please feel free to contact <xxx@xxx> directly.   
+If you have additional questions or comments, please feel free to contact <evelyn.wu@foxmail.com> directly.   
 
 Thank you for participating!
 
