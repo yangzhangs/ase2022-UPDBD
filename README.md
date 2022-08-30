@@ -7,7 +7,7 @@ Docker building is a critical component of containerized workflow, which automat
 configuration and 8 regression algorithms for the prediction task. Our results demonstrate that Random Forest provides the superior performance with a Spearman’s correlation of 0.781, outperforming the baseline random model by 82.9% in RMSE, 90.6% in MAE, and 94.4% in MAPE, respectively. The implications of this study will
 facilitate research and assist practitioners in improving the Docker build process.
 
-## Overview of the Docker containerized workflow
+## Overview of the Docker Containerized Workflow
 ![image](https://user-images.githubusercontent.com/35053410/187417148-a26d9b4a-5cc2-4804-8935-a365308b0a89.png)
 
 
