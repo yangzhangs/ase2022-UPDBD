@@ -39,14 +39,11 @@ organization={ACM}
 ## Scripts
 We implement the prediction models using R with the [caret](http://topepo.github.io/caret/index.html) package.
 
-- Implementation details of prediction models
-  - see *prediction_models.md*
+- Implementation details of prediction models: see *prediction_models.md*
 
-- Scripts for prediction modeling
-  - see *scripts_for_modelling.R*
+- Scripts for prediction modeling: see *scripts_for_modelling.R*
 
-- Optimal parameters settings of prediction models
-  - see *optimal_parameters.md* 
+- Optimal parameters settings of prediction models: see *optimal_parameters.md* 
 
 - Methods used in our feature analysis
   - VARCLUS clustering analysis (*varclus* in *Hmisc* package)
